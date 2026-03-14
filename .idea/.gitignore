@@ -15,3 +15,6 @@ vcs.xml
 jarRepositories.xml
 encodings.xml
 compiler.xml
+
+target/
+*.class
